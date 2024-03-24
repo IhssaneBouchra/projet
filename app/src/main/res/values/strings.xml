@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"> Compte </string>
+    <string name="tv1"> Les informations du compte de l\'utilisateur
+</string>
+    <string name="back"> Retour </string>
+    <string name="user_name"> Email : </string>
+    <string name="password"> Mot de passe : </string>
+    <string name="login"> Se connecter </string>
+</resources>

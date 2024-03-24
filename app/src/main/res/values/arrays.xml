@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string-array name="tabcat">
+            <item>catégorier1</item>
+            <item>catégorier2</item>
+            <item>catégorier3</item>
+            <!-- Ajoutez d'autres catégories si nécessaire -->
+        </string-array>
+        <string-array name="cities_array">ville
+            <item>Paris</item>
+            <item>Londres</item>
+            <item>New York</item>
+            <!-- Ajoutez d'autres villes ici -->
+        </string-array>
+    </resources>
